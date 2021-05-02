@@ -28,3 +28,21 @@ I made a function called "submit" that does the same thing. So all you have to r
 Just make sure to cd out of the project repository once you're done. You can do this easily by running `cd ..`
 
 
+**Note**
+Remember, when you're moving around in the terminal, it's the same thing as moving around in the file explorer. A directory is the same thing as a folder. 
+Here's some reminders as a cheat sheet:
+
+`cd ..` - move one folder up
+
+`mkdir folder_name` create a new empty folder in your current directory named folder_name
+
+`touch file_name.whatever` create a new blankfile named file_name.whatever
+
+`code folder_name` open the folder named folder_name in VS Code
+
+`code .` open the current folder in VS Code
+
+`cd ~` move to your home directory. This is the top folder.
+
+`ls` show all the files and folders within your current directory
+
